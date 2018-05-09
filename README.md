@@ -1,2 +1,2 @@
-# DiscordRep
-this is for my discord channel
+# DefinitelyNotBot
+A Discord bot coded in Discord.JS, hosted using Heroku.
