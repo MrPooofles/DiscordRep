@@ -6,6 +6,13 @@ client.on('ready', () => {
     });
 
 client.on('message', message => {
+    if (message.content === '.infopoof') {
+    	message.reply('I have no complex commands! But i can give you information. Do .helpme for help');
+  	}
+    
+    });
+
+client.on('message', message => {
     if (message.content === 'owner') {
     	message.reply('Mr.Poof is my Owner!');
   	}
