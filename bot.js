@@ -6,15 +6,15 @@ client.on('ready', () => {
     });
 
 client.on('message', message => {
-    if (message.content === '.helpme') {
-    	message.reply('commands that i know: .server(will show you the ip and port of every server!) .report(will help you to report someone that did not follow the rules!)');
+    if (message.content === '.server') {
+    	message.reply('!**Not yet realeased**!');
   	}
     
     });
 
 client.on('message', message => {
-    if (message.content === '.info') {
-    	message.reply('I have no complex commands! But i can give you information. Do .helpme for help');
+    if (message.content === '.staffapplication') {
+    	message.reply('Ask Mr.Poof and the Caul for staff applications');
   	}
     
     });
