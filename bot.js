@@ -6,8 +6,8 @@ client.on('ready', () => {
     });
 
 client.on('message', message => {
-    if (message.content === '.clear') {
-      message.reply('D?purge 10');
+    if (message.content === '.help') {
+      message.reply(''Welcome i'm PoofBot and i can answer basic questions!'');
     }
 
     });
