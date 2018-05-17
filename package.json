@@ -1,7 +1,7 @@
 {
-  "name": "DefinitelyNotBot",
-  "description": "A Discord bot coded in Discord.JS, hosted using Heroku.",
-  "version": "1.0.0",
+  "name": "PoooFy Bot",
+  "description": "A Discord Bot Created from Scratch by Mr.Pooofles",
+  "version": "1.0.2",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
