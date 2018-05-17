@@ -2,7 +2,7 @@
   "name": "PoooFy Bot",
   "description": "A Discord Bot Created from Scratch by Mr.Pooofles",
   "version": "1.0.2",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "node bot.js"
   },
