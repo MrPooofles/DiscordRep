@@ -1,9 +1,9 @@
 {
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start index.js --name Sunset"
+    "start": "pm2 start index.js --name Poof Bot"
   },
-  "author": "MrHacker894",
+  "author": "MrPooofles",
   "license": "ISC",
   "dependencies": {
     "base64-url": "^2.0.1",
