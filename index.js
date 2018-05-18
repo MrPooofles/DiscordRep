@@ -28,9 +28,8 @@ const moment = require('moment')
 
 
 
-// Credits for this code go to Felix, Corbs, Danny, and Jackalope :)
-// Mostly Felix and Danny
-// Mostly Felix
+// Credits for corey on helping me
+
 
 
 const botjoinembed = new Discord.RichEmbed()
