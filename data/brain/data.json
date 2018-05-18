@@ -1,0 +1,21 @@
+{
+    "name": "Poof Bot",
+    "newversion": "2.0",
+    "description": "Poof bot has been built by Mrpooofles with the help of my buddy corey and other coders!",
+    "library": "Discord.js",
+    "language": "Node.js",
+    "prefix": "*",
+    "yt_api_key": "",
+    "token": "",
+    "ownerid": "445633045253324810",
+    "bot_client_id": "443670886382567424",
+    "bot_permissions": "1945599094",
+    "github_project_link": "https://github.com/mrpooofles",
+    "bot_discriminator": "8243",
+    "bot_guild_id": "<@442912561415847936>",
+    "lock": " false",
+    "nsfwterms": "",
+    "dbltoken": "",
+    "googlAPIKey": "",
+    "translateKey": ""
+}
