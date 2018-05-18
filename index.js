@@ -1,4 +1,4 @@
-const fs = require("fs");
+ const fs = require("fs");
 const fse = require("fs-extra")
 fs.readFile(`./data/brain/startup.txt`, 'utf8', function(err, data) {
   console.log(data)
